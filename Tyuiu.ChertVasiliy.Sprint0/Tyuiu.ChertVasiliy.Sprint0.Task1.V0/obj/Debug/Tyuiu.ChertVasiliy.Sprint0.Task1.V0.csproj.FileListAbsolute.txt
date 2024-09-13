@@ -1,0 +1,7 @@
+D:\Данил\Documents\Новая папка (4)\Tyuiu.ChertVasiliy.Sprint0\Tyuiu.ChertVasiliy.Sprint0.Task1.V0\bin\Debug\Tyuiu.ChertVasiliy.Sprint0.Task1.V0.exe.config
+D:\Данил\Documents\Новая папка (4)\Tyuiu.ChertVasiliy.Sprint0\Tyuiu.ChertVasiliy.Sprint0.Task1.V0\bin\Debug\Tyuiu.ChertVasiliy.Sprint0.Task1.V0.exe
+D:\Данил\Documents\Новая папка (4)\Tyuiu.ChertVasiliy.Sprint0\Tyuiu.ChertVasiliy.Sprint0.Task1.V0\bin\Debug\Tyuiu.ChertVasiliy.Sprint0.Task1.V0.pdb
+D:\Данил\Documents\Новая папка (4)\Tyuiu.ChertVasiliy.Sprint0\Tyuiu.ChertVasiliy.Sprint0.Task1.V0\obj\Debug\Tyuiu.ChertVasiliy.Sprint0.Task1.V0.csproj.AssemblyReference.cache
+D:\Данил\Documents\Новая папка (4)\Tyuiu.ChertVasiliy.Sprint0\Tyuiu.ChertVasiliy.Sprint0.Task1.V0\obj\Debug\Tyuiu.ChertVasiliy.Sprint0.Task1.V0.csproj.CoreCompileInputs.cache
+D:\Данил\Documents\Новая папка (4)\Tyuiu.ChertVasiliy.Sprint0\Tyuiu.ChertVasiliy.Sprint0.Task1.V0\obj\Debug\Tyuiu.ChertVasiliy.Sprint0.Task1.V0.exe
+D:\Данил\Documents\Новая папка (4)\Tyuiu.ChertVasiliy.Sprint0\Tyuiu.ChertVasiliy.Sprint0.Task1.V0\obj\Debug\Tyuiu.ChertVasiliy.Sprint0.Task1.V0.pdb
