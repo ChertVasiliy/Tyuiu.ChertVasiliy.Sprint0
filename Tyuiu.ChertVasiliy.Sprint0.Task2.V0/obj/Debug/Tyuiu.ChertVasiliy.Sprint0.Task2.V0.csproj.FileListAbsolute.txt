@@ -1,0 +1,2 @@
+D:\Данил\Documents\Новая папка (4)\Tyuiu.ChertVasiliy.Sprint0\Tyuiu.ChertVasiliy.Sprint0.Task2.V0\obj\Debug\Tyuiu.ChertVasiliy.Sprint0.Task2.V0.csproj.AssemblyReference.cache
+D:\Данил\Documents\Новая папка (4)\Tyuiu.ChertVasiliy.Sprint0\Tyuiu.ChertVasiliy.Sprint0.Task2.V0\obj\Debug\Tyuiu.ChertVasiliy.Sprint0.Task2.V0.csproj.CoreCompileInputs.cache
