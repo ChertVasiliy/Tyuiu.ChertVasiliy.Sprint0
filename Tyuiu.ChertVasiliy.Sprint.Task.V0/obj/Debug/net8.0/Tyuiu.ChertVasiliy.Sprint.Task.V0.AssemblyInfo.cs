@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tyuiu.ChertVasiliy.Sprint.Task.V0")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e670e8820744f9ae3ecfee19cdc97f2fa865acee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d861b7c8a45a682b3086aa554f9baed53e0e4d84")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tyuiu.ChertVasiliy.Sprint.Task.V0")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tyuiu.ChertVasiliy.Sprint.Task.V0")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
